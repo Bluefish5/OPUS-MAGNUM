@@ -15,6 +15,23 @@ int main(){
     signed int g;
     unsigned int h;
 
+    char i;
+    signed char j;
+    unsigned char k;
+
+    wchar_t l;
+
+    char16_t n;
+    char32_t m;
+
+    float o;
+    double p;
+    long double r;
+
+    bool s;
+    
+
+
     
 
     return 0;
