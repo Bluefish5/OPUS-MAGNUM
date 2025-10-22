@@ -1,2 +1,14 @@
 *.exe
 /.vscode
+
+
+# Foldery buildów
+build/
+out/
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
