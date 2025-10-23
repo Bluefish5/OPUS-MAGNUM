@@ -7,8 +7,13 @@ build/
 out/
 bin/
 obj/
+zip/
 
 # Visual Studio
 .vs/
 *.vcxproj.user
 *.suo
+
+
+x64/
+x86/
